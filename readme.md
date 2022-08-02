@@ -21,7 +21,7 @@
 Leanrt about flexbox and fontawesome icons.
 
 
-## This project took around 1 hours to complete .
+## This project took around 2.5 hours to complete .
 
 ## Connect Me
 
