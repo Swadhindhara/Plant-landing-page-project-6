@@ -1,0 +1,103 @@
+body{
+    overflow: hidden;
+}
+#navbarMonstera{
+    display: flex;
+  }
+  #navFirst{
+    margin-top: 35px;
+    margin-left: 70px;
+  }
+  #navFirst img{
+    width: 90%;
+  }
+  #navMid{
+    display: flex;
+    position: absolute;
+    left: 30%;
+    gap: 70px;
+    top: 35px;
+    font-family: Allerta;
+  }
+  #navEnd{
+    display: flex;
+    position: absolute;
+    left: 85%;
+    top: 47px;
+    gap: 30px;
+  }
+  #navMid h4:hover{
+    text-decoration: underline;
+    -webkit-box-shadow: -5px 10px 45px -10px rgba(5,33,11,1);
+-moz-box-shadow: -5px 10px 45px -10px rgba(5,33,11,1);
+box-shadow: -5px 10px 45px -10px rgba(5,33,11,1);
+  }
+  #midWholePart11{
+    position: absolute;
+    left: 40px;
+    font-size: 15px;
+    font-family: Allerta;
+    top: 20%;
+  }
+    #monstera{
+      font-family: Allerta;
+      font-size: 120px;
+      height: 50px;
+      color: black;
+    }
+    #midWholePart121{
+        display: flex;
+        position: absolute;
+        top: 65%;
+        left: 6%;
+        background-color: rgb(55, 140, 102);
+        color: white;
+        font-family: Allerta;
+        font-size: 10px;
+        padding: 0 30px;
+        border-radius: 50px;
+    }
+    #midWholePart122{
+        margin-top: 17px;
+        margin-left: 15px;
+    }
+    #midWholePart122 img{
+        width: 12px;
+    }
+    #midWholePart13{
+        display: flex;
+        position: absolute;
+        top: 90%;
+    }
+    #imgMain{
+        position: absolute;
+        width: 30%;
+        top: 16.5%;
+        left: 69.8%;
+    }
+    .midWholePart13Parts{
+        display: flex;
+        margin-top: -5%;
+        margin-left: 70px;
+    }
+    div h4{
+        font-family: Allerta;
+    }
+    .text{
+        width: 240px;
+        font-family: Allerta;
+        font-size: 13px;
+        
+    }
+    #feeding{
+        margin-top: 15px;
+    }
+    #light{
+        margin-top: 15px;
+    }
+    #care{
+        margin-top: 15px;
+    }
+     h4{
+        height: 0px;
+    }
